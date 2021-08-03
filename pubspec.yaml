@@ -1,5 +1,5 @@
 name: paypal_pal
-description: A new Flutter package project.
+description: A flutter plugin that allows user to submit paypal payment.
 version: 0.0.1
 author:
 homepage:
